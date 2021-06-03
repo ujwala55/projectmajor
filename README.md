@@ -1,2 +1,2 @@
 # projectmajor
-html hints major project
+html hints major project(portfolio)
